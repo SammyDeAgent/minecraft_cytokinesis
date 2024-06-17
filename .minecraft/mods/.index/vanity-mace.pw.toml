@@ -1,0 +1,13 @@
+filename = 'vanity_mace_1.20.1.jar'
+name = 'Vanity: Mace'
+side = 'both'
+
+[download]
+hash = '23f721f427ad59cb27ae6e687495ce7706c424556207e4a12eae0ccbe2458551bbe7afe8f93f1661fd3bcb39a973abdf5e724b376bd10478d08c85258608b685'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/w690jh2p/versions/eIg7exAc/vanity_mace_1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'w690jh2p'
+version = 'eIg7exAc'

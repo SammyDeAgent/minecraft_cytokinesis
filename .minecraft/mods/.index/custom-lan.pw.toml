@@ -1,0 +1,13 @@
+filename = 'custom-lan-1.20-1.20.1-v2.3.1.jar'
+name = 'Custom LAN'
+side = 'client'
+
+[download]
+hash = 'dac518b71b762ee589d4b203b6944c8032aa910c0edf366f7eba1e24e186c23a23bf7da66cbeb39a19668c762955d5fc27f56f8ba56a0440e874d51fa618cca7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OCvCFPNR/versions/ANxhu2rL/custom-lan-1.20-1.20.1-v2.3.1.jar'
+
+[update.modrinth]
+mod-id = 'OCvCFPNR'
+version = 'ANxhu2rL'

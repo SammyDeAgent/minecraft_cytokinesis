@@ -1,0 +1,13 @@
+filename = 'ancient_tools_2.0.0.jar'
+name = 'Vanity: Ancient Tool Variants'
+side = 'both'
+
+[download]
+hash = 'dffd97a83281cfd0abd5fa48a331934f9f2af1e2becb5ac53a2d817c08c1a640cab8d7eee5eeb21e3f7a6bd833e0ec16d8220287824a9a4c3f90a6ca7001f672'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UHJHjAMr/versions/qmtoP8so/ancient_tools_2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'UHJHjAMr'
+version = 'qmtoP8so'

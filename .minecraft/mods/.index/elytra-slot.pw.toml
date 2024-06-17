@@ -1,0 +1,13 @@
+filename = 'elytraslot-fabric-6.4.0+1.20.1.jar'
+name = 'Elytra Slot'
+side = 'both'
+
+[download]
+hash = '2edc8cc3219128fe5520bb23d4ada849e99ee9dc082bae0bff9bf6e80b13ca6eee5f8c3567beaa484511f2fb31214394f0268a93928f305435447a7728fd04f7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mSQF1NpT/versions/sx80AQrD/elytraslot-fabric-6.4.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'mSQF1NpT'
+version = 'sx80AQrD'

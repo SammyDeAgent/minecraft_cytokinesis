@@ -1,0 +1,13 @@
+filename = 'SmartBrainLib-fabric-1.20.1-1.14.jar'
+name = 'SmartBrainLib'
+side = 'server'
+
+[download]
+hash = 'e7bfcb9d3bc48f9c6beb77a372926915ecd202fd952fe883ceb472d6de3adbf8267b04af5c7e98cadc846d8a11ad350b191fd4ba3197d7d0bebffca1a16fea41'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PuyPazRT/versions/aLYIaCqo/SmartBrainLib-fabric-1.20.1-1.14.jar'
+
+[update.modrinth]
+mod-id = 'PuyPazRT'
+version = 'aLYIaCqo'

@@ -1,0 +1,13 @@
+filename = 'nightfall-1.0.jar'
+name = 'Vanity: Nightfall'
+side = 'both'
+
+[download]
+hash = '5752f0a48a0b9770251b79242e74a301780a82900246356ae32e7aab3ec556f642cd67be59a9c7d65087846dd43f03722c35749b79afa14e3616834d8bc083ca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ovylolmy/versions/FpGS9hcg/nightfall-1.0.jar'
+
+[update.modrinth]
+mod-id = 'Ovylolmy'
+version = 'FpGS9hcg'

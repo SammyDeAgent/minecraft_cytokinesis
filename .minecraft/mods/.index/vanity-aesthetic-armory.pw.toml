@@ -1,0 +1,13 @@
+filename = 'vanity_aesthetic_armory-1.1.0.jar'
+name = 'Vanity: Aesthetic Armory'
+side = 'both'
+
+[download]
+hash = 'e4660e745ef86f0c413df33f2986a9d6b991845f650487ed5edceba9d5dd87b8f233c1b136c24153f903bee2359c413e3f88c52cf374a16077b18bac38bf3694'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vEDzaSHn/versions/yLjYlOcH/vanity_aesthetic_armory-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'vEDzaSHn'
+version = 'yLjYlOcH'

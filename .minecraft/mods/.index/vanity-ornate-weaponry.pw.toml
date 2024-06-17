@@ -1,0 +1,13 @@
+filename = 'ornate_weaponry.jar'
+name = 'Vanity: Ornate Weaponry'
+side = 'both'
+
+[download]
+hash = '5b0f595cc888ef18801e0ad1b0d14d2d3146580ee37c51f643dddba7381f5d175ae5e9fd3b315747ca0fb828af9ddce346954efa6a44d8527fcfe070274635c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MfuSR2k8/versions/NRv8DEaT/ornate_weaponry.jar'
+
+[update.modrinth]
+mod-id = 'MfuSR2k8'
+version = 'NRv8DEaT'

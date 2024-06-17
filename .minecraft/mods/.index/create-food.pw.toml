@@ -1,0 +1,13 @@
+filename = 'create-food-1.0.7-fabric.jar'
+name = 'Create: Food'
+side = 'both'
+
+[download]
+hash = 'f928bdb6224d226dc42a46bff7ed6d5d32601449d362740953793bd132c101ecffd8edc16ab0c53aa1c854bb537906490ebe498dd9201a86eab4dbac46d17e1c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4HnO3el1/versions/pMXj91nc/create-food-1.0.7-fabric.jar'
+
+[update.modrinth]
+mod-id = '4HnO3el1'
+version = 'pMXj91nc'

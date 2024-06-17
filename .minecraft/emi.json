@@ -1,0 +1,48 @@
+{
+  "favorites": [
+    {
+      "stack": "item:coffins:tome_of_fragility{Damage:0}",
+      "recipe": "emi_loot:/chest_loot/minecraft/chests/buried_treasure"
+    }
+  ],
+  "lookup_history": [
+    "item:createbigcannons:spring_wire",
+    "item:createbigcannons:ap_shot",
+    "item:archers:archer_armor_head{Damage:0}",
+    "item:createfood:apple_cream_white_chocolate",
+    "item:minecraft:book",
+    "item:patchouli:guide_book{\"patchouli:book\":\"extended_drawers:guide\"}",
+    "item:extended_drawers:lock",
+    "item:extended_drawers:t1_upgrade",
+    "item:extended_drawers:t2_upgrade",
+    "item:extended_drawers:t3_upgrade",
+    "item:extended_drawers:t4_upgrade",
+    "item:vanity:design{Design:{Id:\"vanity_deep_forged:stygian_brass\"}}",
+    "item:minecraft:iron_sword{Damage:0,Design:{Id:\"vanity_aesthetic_armory:blacksmithing\",Style:\"claymore\"}}",
+    "item:vanity:styling_table",
+    "item:numismatics:andesite_depositor",
+    "item:ae2:color_applicator{}",
+    "item:coffins:tome_of_fragility{Damage:0}",
+    "item:waystones:warp_stone{Damage:0}",
+    "item:waystones:sharestone",
+    "item:farmersdelight:stuffed_pumpkin_block",
+    "item:create:oak_window_pane",
+    "item:create:mangrove_window",
+    "item:create:dark_oak_window",
+    "item:minecraft:smoker",
+    {
+      "type": "item",
+      "id": "minecraft:birch_wood",
+      "amount": 3
+    },
+    "item:minecraft:birch_log"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

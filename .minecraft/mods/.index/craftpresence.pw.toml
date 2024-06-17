@@ -1,0 +1,13 @@
+filename = 'CraftPresence-2.4.0+1.20.1.jar'
+name = 'CraftPresence'
+side = 'client'
+
+[download]
+hash = '984452bb72202bd712f23aec999789c1d08c2f3417c9ddade38288bcbcb6d7097d8442170500f3d1bc3694e0a50eb3173ce1dea70c945852829e6e03efb3c2cd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DFqQfIBR/versions/P4RgtiBc/CraftPresence-2.4.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'DFqQfIBR'
+version = 'P4RgtiBc'

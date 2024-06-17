@@ -1,0 +1,13 @@
+filename = 'archers-1.2.2+1.20.1.jar'
+name = 'Archers (RPG Series)'
+side = 'both'
+
+[download]
+hash = '07a94c4031fe163291bf1cc28f875391bc0fc91439728309b893dcf7ed9704058ee5845c9d461b1c4bfa4558cc95d1375f98a696cf32300dde3af9a011c58d11'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QgooUXAJ/versions/48ImjUZP/archers-1.2.2%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'QgooUXAJ'
+version = '48ImjUZP'

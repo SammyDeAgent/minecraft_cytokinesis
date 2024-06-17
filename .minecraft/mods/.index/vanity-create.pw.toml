@@ -1,0 +1,13 @@
+filename = 'vanity_create-1.0.0.jar'
+name = 'Vanity: Create'
+side = 'both'
+
+[download]
+hash = '6ff88721f074d416969c33b5b9249d8d46f5dcf1b16d67ceb6ae2c1fe14aca985a12b25c9d5252d52443efd2b21af8aef6db9e2c50796c502378d761888d2d9d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PpvwNllk/versions/ocv3SPVu/vanity_create-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'PpvwNllk'
+version = 'ocv3SPVu'

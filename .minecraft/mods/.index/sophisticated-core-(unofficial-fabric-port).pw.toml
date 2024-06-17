@@ -1,0 +1,13 @@
+filename = 'sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.99.jar'
+name = 'Sophisticated Core (Unofficial Fabric port)'
+side = 'both'
+
+[download]
+hash = '3c02206132f255bc46394043dca4392621982f364a37c5495171b6209b69876cadf93e0303a951f9a7b2e0adf573a24327808829178bc1bd7c9181bb495af662'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9jxwkYQL/versions/47aYL2BX/sophisticatedcore-0.5.109%2Bmc1.20.1-SNAPSHOT-build.99.jar'
+
+[update.modrinth]
+mod-id = '9jxwkYQL'
+version = '47aYL2BX'

@@ -1,0 +1,13 @@
+filename = 'runes-fabric-0.9.12+1.20.1.jar'
+name = 'Runes'
+side = 'both'
+
+[download]
+hash = 'dc73d3d56478c91056f50cc35400bb08f44ff55a6b90bf5b0033748c014c19ff7b4cc9481cea26ce2e525390ebb2cfa405b33987f41ee3c35f1ec4a33c179a7d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lP9Yrr1E/versions/VytcY0JM/runes-fabric-0.9.12%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'lP9Yrr1E'
+version = 'VytcY0JM'
