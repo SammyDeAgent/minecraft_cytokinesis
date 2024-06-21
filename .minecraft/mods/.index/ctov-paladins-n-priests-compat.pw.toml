@@ -1,0 +1,13 @@
+filename = 'ctov-paladins-n-priests-compat-1.0.jar'
+name = 'CTOV - Paladins & Priests compat'
+side = 'server'
+
+[download]
+hash = 'd432b748a530b966037124ee4ba087560182007a49e35bfbeca0cdd8a8aab6b716e7b64a17acdb78935ab6ac61115c54f76cdbf320c7825c7ef91b2a94ba8bce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/prik3cIi/versions/BmAdk4bU/ctov-paladins-n-priests-compat-1.0.jar'
+
+[update.modrinth]
+mod-id = 'prik3cIi'
+version = 'BmAdk4bU'

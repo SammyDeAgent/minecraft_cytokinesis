@@ -1,0 +1,13 @@
+filename = 'doubledoors-1.20.1-5.7.jar'
+name = 'Double Doors'
+side = 'server'
+
+[download]
+hash = '9158a24c0176baab13b84a6cadd9de5dc2bb72e65379c086ccc91652575e03bc83d36c4fd67b5d37e4a5bea6f6f8940acb8f7a2b17819d827ae1d54ffaf16955'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JrvR9OHr/versions/noOLikKt/doubledoors-1.20.1-5.7.jar'
+
+[update.modrinth]
+mod-id = 'JrvR9OHr'
+version = 'noOLikKt'

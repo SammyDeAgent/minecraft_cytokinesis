@@ -44,6 +44,16 @@
       "pull_time": 16,
       "damage": 8.0,
       "velocity": 0.0
+    },
+    "archers:crystal_shortbow": {
+      "pull_time": 16,
+      "damage": 10.0,
+      "velocity": 0.0
+    },
+    "archers:crystal_longbow": {
+      "pull_time": 30,
+      "damage": 13.5,
+      "velocity": 0.0
     }
   },
   "melee_weapons": {
@@ -69,6 +79,11 @@
     },
     "iron_spear": {
       "attack_damage": 5.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "aeternium_spear": {
+      "attack_damage": 8.0,
       "attack_speed": -2.6,
       "attributes": []
     }

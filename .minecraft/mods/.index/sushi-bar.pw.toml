@@ -1,0 +1,13 @@
+filename = 'sushi_bar-0.2.0.jar'
+name = 'Sushi Bar'
+side = 'both'
+
+[download]
+hash = 'ba1f95876c7e20423d5b81f115a0f4c85a54b83df41ef77167fd9c58cc02fab90da2a045d512e74a31dbace444fc83e0c018fc84bf56c529cb5e7e6ae539ee26'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tr2Mv6ke/versions/9eon4YAc/sushi_bar-0.2.0.jar'
+
+[update.modrinth]
+mod-id = 'tr2Mv6ke'
+version = '9eon4YAc'

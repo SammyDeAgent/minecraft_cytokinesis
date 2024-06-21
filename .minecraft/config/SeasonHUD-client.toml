@@ -1,4 +1,3 @@
-
 [SeasonHUD]
 	#Enable the mod?
 	#(true/false)
@@ -51,7 +50,6 @@
 			#Default is 16705834.
 			#Range: 0 ~ 16777215
 			summer_color = 16705834
-
 	[SeasonHUD.Minimap]
 		#Show the default SeasonHUD display when the minimap is hidden.
 		#(true/false)
@@ -72,7 +70,6 @@
 			#(true/false)
 			#Default is false.
 			enable_above_map = false
-
 	[SeasonHUD.Season]
 		#Show the Tropical seasons (Wet/Dry) in Tropical Biomes.
 		#Will not change the season behavior in the biomes.
@@ -91,4 +88,3 @@
 		#(true/false)
 		#Default is true.
 		enable_show_sub_season = true
-

@@ -546,7 +546,7 @@ _version = 2
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
 				# 
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "HIGH"
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
@@ -581,7 +581,7 @@ _version = 2
 				# 
 				# Disabling fog will improve GPU performance.
 				# 
-				drawMode = "FOG_ENABLED"
+				drawMode = "USE_OPTIFINE_SETTING"
 				# What color should fog use? 
 				# 
 				# USE_WORLD_FOG_COLOR: Use the world's fog color. 
@@ -664,7 +664,7 @@ _version = 2
 						# EXPONENTIAL: 1/(e^(height*density)) 
 						# EXPONENTIAL_SQUARED: 1/(e^((height*density)^2)
 						# 
-						heightFogFalloff = "EXPONENTIAL_SQUARED"
+						heightFogFalloff = "LINEAR"
 						# What is the height fog's density?
 						# 
 						heightFogDensity = "2.5"
@@ -733,7 +733,7 @@ _version = 2
 			# WARNING: This may cause world generator bugs or instability when paired with certain world generator mods. 
 			# 
 			# 
-			distantGeneratorMode = "FEATURES"
+			distantGeneratorMode = "SURFACE"
 			# How long should a world generator thread run for before timing out? 
 			# Note: If you are experiencing timeout errors it is better to lower your CPU usage first 
 			# via the thread config before changing this value. 
