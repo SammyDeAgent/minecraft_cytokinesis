@@ -546,7 +546,7 @@ _version = 2
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
 				# 
-				horizontalQuality = "HIGH"
+				horizontalQuality = "MEDIUM"
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 

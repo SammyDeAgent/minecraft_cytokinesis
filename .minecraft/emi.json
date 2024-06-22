@@ -1,11 +1,22 @@
 {
   "favorites": [
     {
-      "stack": "item:coffins:tome_of_fragility{Damage:0}",
-      "recipe": "emi_loot:/chest_loot/minecraft/chests/buried_treasure"
+      "stack": {
+        "type": "fluid",
+        "id": "create_enchantment_industry:hyper_experience",
+        "amount": 810
+      },
+      "recipe": "create_enchantment_industry:mixing/hyper_experience"
     }
   ],
   "lookup_history": [
+    {
+      "type": "fluid",
+      "id": "create_enchantment_industry:hyper_experience",
+      "amount": 810
+    },
+    "item:create_enchantment_industry:hyper_experience_bottle",
+    "item:createaddition:accumulator",
     "item:paladins:monk_workbench",
     "item:archers:archers_workbench",
     "item:creeperoverhaul:tiny_cactus",
@@ -42,7 +53,6 @@
     "item:extended_drawers:t4_upgrade",
     "item:minecraft:iron_sword{Damage:0,Design:{Id:\"vanity_aesthetic_armory:blacksmithing\",Style:\"claymore\"}}",
     "item:numismatics:andesite_depositor",
-    "item:coffins:tome_of_fragility{Damage:0}",
     "item:waystones:warp_stone{Damage:0}",
     "item:waystones:sharestone",
     "item:farmersdelight:stuffed_pumpkin_block",
