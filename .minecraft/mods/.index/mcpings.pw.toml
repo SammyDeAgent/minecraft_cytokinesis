@@ -1,0 +1,13 @@
+filename = 'mcpings-1.0.0-alpha3.jar'
+name = 'MCPings'
+side = 'both'
+
+[download]
+hash = '1914c423e0d7d2a5ce26250532cdf17556bb0eedd09122bd7445d0862e5d5e5f89e412cdfd99e019a7840d226fc2ec64817cc8528c76b1f2ef1cf4ec15dbb5de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U5Mv9aHw/versions/IMkhNTeR/mcpings-1.0.0-alpha3.jar'
+
+[update.modrinth]
+mod-id = 'U5Mv9aHw'
+version = 'IMkhNTeR'

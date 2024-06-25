@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "beginnings"
+	group: "31AFA41D9F50DF50"
+	id: "1A48605E985A8D58"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Beginnings"
+}

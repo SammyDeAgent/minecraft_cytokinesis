@@ -10,6 +10,13 @@
     }
   ],
   "lookup_history": [
+    "item:toms_storage:ts.inventory_connector",
+    {
+      "type": "item",
+      "id": "minecraft:birch_log",
+      "amount": 6
+    },
+    "item:minecraft:acacia_slab",
     {
       "type": "fluid",
       "id": "create_enchantment_industry:hyper_experience",
@@ -64,8 +71,7 @@
       "type": "item",
       "id": "minecraft:birch_wood",
       "amount": 3
-    },
-    "item:minecraft:birch_log"
+    }
   ],
   "craft_history": [],
   "recipe_defaults": {
