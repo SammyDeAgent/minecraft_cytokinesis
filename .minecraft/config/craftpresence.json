@@ -174,8 +174,11 @@
       }
     },
     "dynamicIcons": {
-      "SammyDeAgent": "https://mc-heads.net/avatar/7c64dd267c6c4bdc848ba3fa73cfe297",
-      "default": "https://via.placeholder.com/256.png"
+      "humble-skate.oc.e4mc.link": "https://api.mcsrvstat.us/icon/humble-skate.oc.e4mc.link",
+      "default": "https://via.placeholder.com/256.png",
+      "frame-much.oc.e4mc.link": "https://api.mcsrvstat.us/icon/frame-much.oc.e4mc.link",
+      "asset-surround.oc.e4mc.link": "https://api.mcsrvstat.us/icon/asset-surround.oc.e4mc.link",
+      "SammyDeAgent": "https://mc-heads.net/avatar/7c64dd267c6c4bdc848ba3fa73cfe297"
     },
     "dynamicVariables": {
       "default": "Example Text",

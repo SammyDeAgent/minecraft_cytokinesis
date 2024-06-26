@@ -10,6 +10,8 @@
     }
   ],
   "lookup_history": [
+    "item:artifacts:everlasting_beef",
+    "item:artifacts:eternal_steak",
     "item:toms_storage:ts.inventory_connector",
     {
       "type": "item",

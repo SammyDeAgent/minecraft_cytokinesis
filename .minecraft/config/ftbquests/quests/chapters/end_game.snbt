@@ -1,0 +1,36 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "end_game"
+	group: "31AFA41D9F50DF50"
+	id: "19D1157A7FF4E735"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "210F63734BC6990C"
+		rewards: [{
+			id: "5A1F8EB5A6D9206F"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			dimension: "minecraft:end"
+			id: "6077D4B1C0E298AE"
+			ignore_dimension: false
+			position: [I;
+				0
+				0
+				0
+			]
+			size: [I;
+				1
+				1
+				1
+			]
+			type: "location"
+		}]
+		x: -4.5d
+		y: -1.0d
+	}]
+	title: "End Game"
+}
